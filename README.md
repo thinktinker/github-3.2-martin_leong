@@ -121,7 +121,7 @@ Show all commits in the current branch’s history.
 ```
 git log
 ```
-### `4 GitHub commands` used most in a real project.
+### Four GitHub commands` used most in a real project.
 
 The 4 commands below facilitate effective collaboration, version control, and project management in a Git-based development environment.
 
